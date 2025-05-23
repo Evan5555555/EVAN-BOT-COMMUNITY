@@ -3,7 +3,7 @@ module.exports.config = {
     name: "join",
     version: "1.0.1",
     hasPermssion: 2,
-    credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
+    credits: "𓆩๛⃝𓆩𝐃𝐉‣𝐄𝐕𝐀𝐍‣᭄𓆪 :* :/ 3:) ;*",
     description: "Join the Bot boxes are in",
     commandCategory: "System",
     usages: "",
